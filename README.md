@@ -1,4 +1,4 @@
-[![Olanrewaju Toyyib's GitHub Banner](https://bravía.com/og/image.webp)](https://bravía.com)
+[![Olanrewaju Toyyib's GitHub Banner](https://www.xn--brava-2sa.com/og/image.webp)](https://www.xn--brava-2sa.com)
 
 <!-- Added base=23542 which is from my old username -->
 

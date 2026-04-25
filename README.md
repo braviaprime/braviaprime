@@ -1,8 +1,11 @@
+[![Olanrewaju Toyyib's GitHub Banner](https://www.xn--brava-2sa.com/og/image.webp)](https://www.xn--brava-2sa.com)
+
 # 👨‍💻 Toyyib Olaitan OLANREWAJU 
 
 **M.Sc. Computer Science (Kwara State University) | Full-Stack Engineer | PhD Applicant**
 
 [![Website](https://img.shields.io/badge/Website-bravía.com-blue?style=for-the-badge)](https://bravía.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=S40tjAUAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olanrewaju--Toyyib-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/olanrewaju-toyyib/)
 [![Email](https://img.shields.io/badge/Email-me@bravía.com-red?style=for-the-badge&logo=gmail)](mailto:me@bravía.com)
 
@@ -24,12 +27,14 @@ I build scalable, high-performance web applications with a focus on **Next.js** 
 
 - 🛠️ **Core Stack:** React, Next.js, Node.js, TypeScript.
 - 🧪 **AI/ML:** Multimodal Fusion, Uncertainty Estimation, Behavioral Understanding.
-- 🔭 **Current Project:** Architecting [bravía.com](https://bravía.com) and advancing my [Master's research implementation](http://proctorai.bravía.com/).
-- 📝 **Writing:** I document my journey and technical deep-dives at [bravía.com/blog](https://bravía.com/blog).
+- 📂 **Projects:** All of my projects are available at [https://bravía.com/projects](https://bravía.com/projects), including my [Master's research implementation](http://proctorai.bravía.com/).
+- 📝 **Writing:** I regularly write articles on [bravía.com/blog](https://bravía.com/blog).
 
 ---
 
 ## 📊 Weekly Development Breakdown
+[![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@braviadev)
+
 ```txt
 Total Time: 28 hrs 7 mins
 

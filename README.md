@@ -14,7 +14,7 @@
 ## 🎓 Academic Profile & Research Interests
 *Currently seeking a PhD opportunity focused on **Multimodal Fusion and Trustworthy AI**. My work bridges the gap between environmental perception and explainable machine learning.*
 
-### 📚 Selected Research
+### 📚 Selected Ongoing Research
 * **Quantifying Algorithmic Bias (2025):** African Perspectives on the "White Default" Paradigm and Its Socio-Technical Implications.
 * **Beyond Traditional Metrics (2025):** Developing Robust Evaluation Frameworks for Enhanced Predictive Reliability.
 * **Architectural Optimization (2026):** Mitigating Computational Lag in Real-Time Server-Side Applications.

@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-bravía.com-blue?style=for-the-badge)](https://bravía.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=S40tjAUAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olanrewaju--Toyyib-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/olanrewaju-toyyib/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olanrewaju--Toyyib-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/toyyhib/)
 [![Email](https://img.shields.io/badge/Email-me@bravía.com-red?style=for-the-badge&logo=gmail)](mailto:me@bravía.com)
 
 ---

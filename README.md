@@ -27,8 +27,8 @@ I build scalable, high-performance web applications with a focus on **Next.js** 
 
 - 🛠️ **Core Stack:** React, Next.js, Node.js, TypeScript.
 - 🧪 **AI/ML:** Multimodal Fusion, Uncertainty Estimation, Behavioral Understanding.
-- 📂 **Projects:** All of my projects are available at [https://bravía.com/projects](https://bravía.com/projects), including my [Master's research implementation](http://proctorai.bravía.com/).
-- 📝 **Writing:** I regularly write articles on [bravía.com/blog](https://bravía.com/blog).
+- 📂 **Projects:** All of my projects are available at [https://braviaprime.com/projects](https://braviaprime.com/projects), including my [Master's research implementation](http://proctorai.braviaprime.com/).
+- 📝 **Writing:** I regularly write articles on [braviaprime.com/blog](https://braviaprime.com/blog).
 
 ---
 

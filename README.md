@@ -1,4 +1,4 @@
-[![Olanrewaju Toyyib's GitHub Banner](https://www.xn--brava-2sa.com/og/image.webp)](https://www.xn--brava-2sa.com)
+[![Olanrewaju Toyyib's GitHub Banner](https://www.braviaprime.com/og/image.webp)](https://www.braviaprime.com)
 
 # 👨‍💻 Toyyib Olaitan OLANREWAJU 
 

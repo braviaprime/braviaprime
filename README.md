@@ -34,7 +34,7 @@
 I build scalable, high-performance web applications and deploy trustworthy AI models into production environments.
 - 🛠️ **Core Stack:** React, Next.js, Node.js, TypeScript.
 - 🧪 **AI/ML:** Multimodal Fusion, Uncertainty Estimation, Behavioral Understanding, Computer Vision.
-- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [Master's research implementation](http://proctorai.braviaprime.com/).
+- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation](http://proctorai.braviaprime.com/), and my [undegraduate research implementation](http://cryptography.braviaprime.com/).
 - 📝 **Writing:** I regularly write articles on [braviaprime.com/blog](https://braviaprime.com/blog).
 
 ---
